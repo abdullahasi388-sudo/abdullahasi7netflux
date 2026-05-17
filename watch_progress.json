@@ -1,0 +1,36 @@
+[
+  {
+    "user_id": 1,
+    "content_id": 1,
+    "progress_minutes": 8,
+    "total_minutes": 8,
+    "last_watched": "2026-05-13T23:24:38.694976",
+    "progress": 1,
+    "updated_at": "2026-05-17T13:36:44.450301"
+  },
+  {
+    "user_id": 1,
+    "content_id": 2,
+    "progress_minutes": 2,
+    "total_minutes": 9,
+    "last_watched": "2026-05-13T23:19:18.590658"
+  },
+  {
+    "user_id": 1,
+    "content_id": 16,
+    "progress": 96,
+    "updated_at": "2026-05-16T14:59:21.441824"
+  },
+  {
+    "user_id": 1,
+    "content_id": 21,
+    "progress": 200,
+    "updated_at": "2026-05-16T21:28:10.068993"
+  },
+  {
+    "user_id": 5,
+    "content_id": 1,
+    "progress": 64,
+    "updated_at": "2026-05-16T23:58:29.982944"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "email": "admin@netflux.com",
+    "password": "admin123",
+    "name": "Admin User",
+    "type": "admin"
+  },
+  {
+    "id": 2,
+    "email": "test@netflux.com",
+    "password": "test123",
+    "name": "Test User",
+    "type": "user"
+  },
+  {
+    "id": 3,
+    "email": "abdullahasi1099@gmail.com",
+    "password": "user123",
+    "name": "سيب يسش",
+    "type": "user"
+  },
+  {
+    "id": 4,
+    "email": "abdalahh239@gmail.com",
+    "password": "12345678",
+    "name": "عبدالله العاصي",
+    "type": "user"
+  },
+  {
+    "id": 5,
+    "email": "asmr@gmail.com",
+    "password": "1234567890",
+    "name": "sa",
+    "type": "user"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "user_id": 1,
+    "content_id": 2,
+    "added_at": "2026-05-13T17:46:04.102094"
+  },
+  {
+    "user_id": 4,
+    "content_id": 4
+  },
+  {
+    "user_id": 1,
+    "content_id": 6
+  },
+  {
+    "user_id": 1,
+    "content_id": 7,
+    "added_at": "2026-05-16T15:36:07.033727"
+  },
+  {
+    "user_id": 1,
+    "content_id": 11,
+    "added_at": "2026-05-16T15:36:12.838035"
+  },
+  {
+    "user_id": 1,
+    "content_id": 1,
+    "added_at": "2026-05-16T16:04:04.957499"
+  }
+]
